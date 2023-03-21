@@ -2,12 +2,11 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
       <>
-      /*  <img src="Octocat.png" className="App-logo" alt="logo" />*/
+        <h1>Government School</h1>
+            <h6>kurumapatti</h6>
         <p>test kschool</p>
       </>
-    </div>
   );
 }
 
