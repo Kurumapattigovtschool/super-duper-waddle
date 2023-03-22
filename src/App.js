@@ -6,7 +6,7 @@ function App() {
   return (
   <>
      
-    <div class="header">
+    <div class="header" style={{ backgroundImage: "url(/7.png)" }}>
         <h1>Government School</h1>
             <h3>kurumapatti</h3>
     </div>
