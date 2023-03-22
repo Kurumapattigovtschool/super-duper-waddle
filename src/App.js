@@ -6,7 +6,7 @@ function App() {
   return (
   <>
      
-    <div class="header" style={{ backgroundImage: "url(/7.png)" }}>
+    <div class="header" style={{ backgroundColor: "blue" }}>
         <h1>Government School</h1>
             <h3>kurumapatti</h3>
     </div>
@@ -18,6 +18,12 @@ function App() {
 <h3>Puliyampatti ( 4 KM ) , Mothakkal ( 8 KM ) , Melravandavadi ( 8 KM ) , Kattamaduvu ( 10 KM ) , Andipatti ( 12 KM ) are the nearby Villages to Kurumapatti. Kurumapatti is surrounded by Uthangarai Block towards west , Harur Block towards west , Thandrampet Block towards East , Mathur Block towards west .</h3>
 
 <h3>Tirupathur , Tiruvannamalai , Dharmapuri , Tirukkoyilur are the near by Cities to Kurumapatti.</h3>
+
+<div class="text">
+	<img src="7.png" alt="logo" />
+	<h3>The entrance of Parents United for Public schools in kurumapatti village.</h3>
+	</div>
+
 	<div class="text">
 	<img src="1.png" alt="logo" />
 	<h3>Students are assembly prayer at 9.00am</h3>
