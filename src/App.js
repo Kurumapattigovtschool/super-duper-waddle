@@ -1,52 +1,105 @@
-
 import './App.css';
-
-
 function App() {
   return (
-  <>
-     
-    <div class="header" style={{ backgroundColor: "blue" }}>
-        <h1>Government School</h1>
-            <h3>kurumapatti</h3>
-    </div>
- <div class="co">
-	<h3>Kurumapatti is a small Village/hamlet in Chengam Block in Tiruvannamalai District of Tamil Nadu State, India. It comes under Elangunni Panchayath. It is located 49 KM towards west from District head quarters Thiruvannamalai. 19 KM from Chengam. 230 KM from State capital Chennai</h3>
+	  <>
+    	    <div class="header" style={{ backgroundColor: "blue" }}>
+	  
+       		 <h1>Government School</h1>
 
-<h3>Kurumapatti Pin code is 606703 and postal head office is Melpallipattu .</h3>
+            	 <h3>kurumapatti</h3>
 
-<h3>Puliyampatti ( 4 KM ) , Mothakkal ( 8 KM ) , Melravandavadi ( 8 KM ) , Kattamaduvu ( 10 KM ) , Andipatti ( 12 KM ) are the nearby Villages to Kurumapatti. Kurumapatti is surrounded by Uthangarai Block towards west , Harur Block towards west , Thandrampet Block towards East , Mathur Block towards west .</h3>
+ 	   </div>
 
-<h3>Tirupathur , Tiruvannamalai , Dharmapuri , Tirukkoyilur are the near by Cities to Kurumapatti.</h3>
+		 <div class="co">
+			 
+		 	<h3 style={{ color: "red" }}>About PUPS-KURUMAPATTI</h3>	
 
-<div class="text">
-	<img src="7.png" alt="logo" />
-	<h3>The entrance of Parents United for Public schools in kurumapatti village.</h3>
-	</div>
+				<p>PUPS-KURUMAPATTI was established in 1961 and it is managed by the Local body.</p>
 
-	<div class="text">
-	<img src="1.png" alt="logo" />
-	<h3>Students are assembly prayer at 9.00am</h3>
-	</div>
-	
-	<div class="text">	
-	<img src="2.png" alt="logo" />
-	<h3>School pongal celebration for students and teachers.</h3>
-	</div>
-	
-	
-		
-	<div class="text">
-	<img src="5.png" alt="logo" />
-	<h3>Kamarajar birthday is celebration as school students and teachers.</h3>
-	</div>
-		
-	<div class="text">
-	<img src="6.png" alt="logo" />
-	<h3> School inspection in lunch and school.</h3>
-	</div>
+				<p> It is located in Rural area. It is located in CHENGAM block of TIRUVANNAMALAI district of Tamil Nadu.</p>
 
-      </div></>
+				<p> The school consists of Grades from 1 to 5.</p>
+
+				<p> The school is Co-educational and it doesn't have an attached pre-primary section.</p>
+
+				<p> The school is N/A in nature and is not using school building as a shift-school.</p>
+
+				<p> Tamil is the medium of instructions in this school.</p>
+
+				<p> This school is approachable by all weather road. In this school academic session starts in April.</p>
+
+				<p>The school has Government building.</p>
+
+				<p> It has got 4 classrooms for instructional purposes.</p>
+
+				<p> All the classrooms are in good condition. </p>
+
+				<p>It has 2 other rooms for non-teaching activities.</p>
+
+				<p> The school has a separate room for Head master/Teacher.</p>
+
+				<p> The school has Partial boundary wall.</p>
+
+				<p> The school has have electric connection.</p>
+
+				<p> The source of Drinking Water in the school is Tap Water and it is functional.</p>
+
+				<p> The school has 1 boys toilet and it is functional.</p>
+
+				<p> and 1 girls toilet and it is functional.</p>
+
+				<p> The school has a playground. </p>
+
+				<p>The school has a library and has 620 books in its library.</p>
+
+				<p> The school does not need ramp for disabled children to access classrooms.</p>
+
+				<p> The school has 2 computers for teaching and learning purposes and all are functional.</p>
+
+				<p> The school is having a computer aided learning lab.</p>
+
+				<p> The school is Provided and Prepared in School Premises providing mid-day meal.</p>
+
+				<p> UDISE Code : 33061604201</p>
+
+				<p>School Code: 2147483647</p>
+
+				<div class="text">
+					<img src="7.png" alt="logo" />
+					<h3>The entrance of Parents United for Public schools in kurumapatti village.</h3>
+				</div>
+
+				<div class="text">
+					<img src="1.png" alt="logo" />
+					<h3>Students are assembly prayer at 9.00am</h3>
+				</div>
+
+				<div class="text">	
+					<img src="2.png" alt="logo" />
+					<h3>School pongal celebration for students and teachers.</h3>
+				</div>
+
+				<div class="text">
+					<img src="5.png" alt="logo" />
+					<h3>Kamarajar birthday is celebration as school students and teachers.</h3>
+				</div>
+
+				<div class="text">
+					<img src="6.png" alt="logo" />
+					<h3>The inspection officer inspecting in food and school.</h3>
+				</div>
+
+			<h3 style={{ color: "red" }}>About Village</h3>
+			<p>Kurumapatti is a small Village/hamlet in Chengam Block in Tiruvannamalai District of Tamil Nadu State, India.
+			It comes under Elangunni Panchayath. It is located 49 KM towards west from District head quarters Thiruvannamalai. 
+			19 KM from Chengam. 230 KM from State capital Chennai.</p>
+
+			<p>Kurumapatti Pin code is 606703 and postal head office is Melpallipattu .</p>
+
+			<p>Puliyampatti ( 4 KM ) , Mothakkal ( 8 KM ) , Melravandavadi ( 8 KM ) , Kattamaduvu ( 10 KM ) , Andipatti ( 12 KM ) are the nearby Villages to Kurumapatti. Kurumapatti is surrounded by Uthangarai Block towards west , Harur Block towards west , Thandrampet Block towards East , Mathur Block towards west .</p>
+			<p>Tirupathur , Tiruvannamalai , Dharmapuri , Tirukkoyilur are the near by Cities to Kurumapatti.</p>		
+		</div>
+	</>
   );
 }
 
