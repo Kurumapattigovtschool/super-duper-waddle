@@ -14,55 +14,27 @@ function App() {
 			 
 		 	<h3 style={{ color: "red" }}>About PUPS-KURUMAPATTI</h3>	
 
-				<p>PUPS-KURUMAPATTI was established in 1961 and it is managed by the Local body.</p>
+				<p>	PUPS-KURUMAPATTI was established in 1961 and it is managed by the Local body. It is located in Rural area. It is located in CHENGAM block of TIRUVANNAMALAI district of Tamil Nadu.</p>
 
-				<p> It is located in Rural area. It is located in CHENGAM block of TIRUVANNAMALAI district of Tamil Nadu.</p>
+				<p> 	The school consists of Grades from 1 to 5.The school is Co-educational and it doesn't have an attached pre-primary section. Tamil is the medium of instructions in this school.</p>
 
-				<p> The school consists of Grades from 1 to 5.</p>
+				<p> 	This school is approachable by all weather road. In this school academic session starts in April. The school has Government building. It has got 4 classrooms for instructional purposes.</p>
 
-				<p> The school is Co-educational and it doesn't have an attached pre-primary section.</p>
+				<p>	 All the classrooms are in good condition. It has 2 other rooms for non-teaching activities. The school has a separate room for Head master/Teacher.</p>
 
-				<p> The school is N/A in nature and is not using school building as a shift-school.</p>
+				<p> 	The school has around boundary wall. The school has have electric connection. The source of Drinking Water in the school is Tap Water and it is functional.</p>
 
-				<p> Tamil is the medium of instructions in this school.</p>
+				<p> 	The school has 1 boys toilet and it is functional and 1 girls toilet and it is functional.</p>
 
-				<p> This school is approachable by all weather road. In this school academic session starts in April.</p>
+				<p>	The school has a library and has 620 books in its library.</p>
 
-				<p>The school has Government building.</p>
+				<p>	The school has 2 computers for teaching and learning purposes and all are functional. The school is having a computer aided learning lab.</p>
 
-				<p> It has got 4 classrooms for instructional purposes.</p>
+				<p>	The school is Provided and Prepared in School Premises providing mid-day meal.</p>
 
-				<p> All the classrooms are in good condition. </p>
+				<p>	UDISE Code : 33061604201</p>
 
-				<p>It has 2 other rooms for non-teaching activities.</p>
-
-				<p> The school has a separate room for Head master/Teacher.</p>
-
-				<p> The school has Partial boundary wall.</p>
-
-				<p> The school has have electric connection.</p>
-
-				<p> The source of Drinking Water in the school is Tap Water and it is functional.</p>
-
-				<p> The school has 1 boys toilet and it is functional.</p>
-
-				<p> and 1 girls toilet and it is functional.</p>
-
-				<p> The school has a playground. </p>
-
-				<p>The school has a library and has 620 books in its library.</p>
-
-				<p> The school does not need ramp for disabled children to access classrooms.</p>
-
-				<p> The school has 2 computers for teaching and learning purposes and all are functional.</p>
-
-				<p> The school is having a computer aided learning lab.</p>
-
-				<p> The school is Provided and Prepared in School Premises providing mid-day meal.</p>
-
-				<p> UDISE Code : 33061604201</p>
-
-				<p>School Code: 2147483647</p>
+				<p>	School Code: 2147483647</p>
 
 				<div class="text">
 					<img src="7.png" alt="logo" />
@@ -70,34 +42,34 @@ function App() {
 				</div>
 
 				<div class="text">
-					<img src="1.png" alt="logo" />
+					<img class="side" src="1.png" alt="logo" />
 					<h3>Students are assembly prayer at 9.00am</h3>
 				</div>
 
 				<div class="text">	
-					<img src="2.png" alt="logo" />
+					<img class="side" src="2.png" alt="logo" />
 					<h3>School pongal celebration for students and teachers.</h3>
 				</div>
 
 				<div class="text">
-					<img src="5.png" alt="logo" />
+					<img class="side" src="5.png" alt="logo" />
 					<h3>Kamarajar birthday is celebration as school students and teachers.</h3>
 				</div>
 
 				<div class="text">
-					<img src="6.png" alt="logo" />
+					<img class="side" src="6.png" alt="logo" />
 					<h3>The inspection officer inspecting in food and school.</h3>
 				</div>
 
 			<h3 style={{ color: "red" }}>About Village</h3>
-			<p>Kurumapatti is a small Village/hamlet in Chengam Block in Tiruvannamalai District of Tamil Nadu State, India.
+			<p>  Kurumapatti is a small Village/hamlet in Chengam Block in Tiruvannamalai District of Tamil Nadu State, India.
 			It comes under Elangunni Panchayath. It is located 49 KM towards west from District head quarters Thiruvannamalai. 
 			19 KM from Chengam. 230 KM from State capital Chennai.</p>
 
-			<p>Kurumapatti Pin code is 606703 and postal head office is Melpallipattu .</p>
+			<p>  Kurumapatti Pin code is 606703 and postal head office is Melpallipattu .</p>
 
-			<p>Puliyampatti ( 4 KM ) , Mothakkal ( 8 KM ) , Melravandavadi ( 8 KM ) , Kattamaduvu ( 10 KM ) , Andipatti ( 12 KM ) are the nearby Villages to Kurumapatti. Kurumapatti is surrounded by Uthangarai Block towards west , Harur Block towards west , Thandrampet Block towards East , Mathur Block towards west .</p>
-			<p>Tirupathur , Tiruvannamalai , Dharmapuri , Tirukkoyilur are the near by Cities to Kurumapatti.</p>		
+			<p>  Puliyampatti ( 4 KM ) , Mothakkal ( 8 KM ) , Melravandavadi ( 8 KM ) , Kattamaduvu ( 10 KM ) , Andipatti ( 12 KM ) are the nearby Villages to Kurumapatti. Kurumapatti is surrounded by Uthangarai Block towards west , Harur Block towards west , Thandrampet Block towards East , Mathur Block towards west .</p>
+			<p>  Tirupathur , Tiruvannamalai , Dharmapuri , Tirukkoyilur are the near by Cities to Kurumapatti.</p>		
 		</div>
 	</>
   );
