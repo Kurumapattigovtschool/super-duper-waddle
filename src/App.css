@@ -9,8 +9,9 @@
 .text{
 	text-align:center;
 }
-.side{
-	border:1px solid;	
+img.side {
+    border-radius: 5px;
+    border: 1px solid;
 }
 @media only screen and (max-width:768px){
 	img{
