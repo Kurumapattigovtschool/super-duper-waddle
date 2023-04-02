@@ -63,7 +63,7 @@ function App() {
 
 				<div class="text">
 					<img class="side" src="8.png" alt="logo" />
-					<h3>The inspection officer inspecting in food and school.</h3>
+					<h3>The new stage is established in 2018 as village people for students.</h3>
 				</div>
 
 			<h3 style={{ color: "red" }}>About Village</h3>
