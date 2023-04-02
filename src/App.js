@@ -61,6 +61,11 @@ function App() {
 					<h3>The inspection officer inspecting in food and school.</h3>
 				</div>
 
+				<div class="text">
+					<img class="side" src="8.png" alt="logo" />
+					<h3>The inspection officer inspecting in food and school.</h3>
+				</div>
+
 			<h3 style={{ color: "red" }}>About Village</h3>
 			<p>  Kurumapatti is a small Village/hamlet in Chengam Block in Tiruvannamalai District of Tamil Nadu State, India.
 			It comes under Elangunni Panchayath. It is located 49 KM towards west from District head quarters Thiruvannamalai. 
