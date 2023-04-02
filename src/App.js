@@ -37,6 +37,11 @@ function App() {
 				<p>	School Code: 2147483647</p>
 
 				<div class="text">
+					<img src="9.png" alt="logo" />
+					<h3>The 4th year of annual function.</h3>
+				</div>
+
+				<div class="text">
 					<img src="7.png" alt="logo" />
 					<h3>The entrance of Parents United for Public schools in kurumapatti village.</h3>
 				</div>
