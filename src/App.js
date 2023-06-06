@@ -39,9 +39,9 @@ function App() {
 
 
 <div class="slider">
-  <img src="image1.jpg" alt="Image 1">
-  <img src="image2.jpg" alt="Image 2">
-  <img src="image3.jpg" alt="Image 3">
+  <img src="annual2023-1.png" alt="Image 1">
+  <img src="annual2023-2.png" alt="Image 2">
+  <img src="annual2023-3.png" alt="Image 3">
 </div>
 
 
