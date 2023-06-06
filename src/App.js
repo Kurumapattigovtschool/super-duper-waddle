@@ -1,4 +1,5 @@
 import './App.css';
+import ImageSlider from './ImageSlider';
 function App() {
   return (
 	  <>
@@ -38,7 +39,7 @@ function App() {
 
 
 
-
+ <ImageSlider />
 
 
 
