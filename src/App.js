@@ -36,6 +36,17 @@ function App() {
 
 				<p>	School Code: 2147483647</p>
 
+
+
+<div class="slider">
+  <img src="image1.jpg" alt="Image 1">
+  <img src="image2.jpg" alt="Image 2">
+  <img src="image3.jpg" alt="Image 3">
+</div>
+
+
+
+
 				<div class="text">
 					<img src="9.png" alt="logo" />
 					<h3>The 4th year of annual function.</h3>
@@ -84,5 +95,17 @@ function App() {
 	</>
   );
 }
+
+
+var images = document.querySelectorAll('.slider img');
+var currentImage = 0;
+
+function changeImage() {
+  images[currentImage].style.display = 'none';
+  currentImage = (currentImage + 1) % images.length;
+  images[currentImage].style.display = 'block';
+}
+
+setInterval(changeImage, 2000);
 
 export default App;
