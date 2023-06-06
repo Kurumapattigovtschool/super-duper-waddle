@@ -42,19 +42,19 @@ function App() {
 
 <div class="mySlides fade">
   <div class="numbertext"></div>
-  <img src="annual2023-1.png" style="width:100%">
+  <img src="annual2023-1.png" style="width:100%"/>
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext"></div>
-  <img src="annual2023-2.png" style="width:100%">
+  <img src="annual2023-2.png" style="width:100%"/>
   <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext"></div>
-  <img src="annual2023-3.png" style="width:100%">
+  <img src="annual2023-3.png" style="width:100%"/>
   <div class="text">Caption Three</div>
 </div>
 
