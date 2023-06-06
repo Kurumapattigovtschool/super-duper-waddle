@@ -17,17 +17,3 @@ img.side {
 	img{
 	width:100%;
 	}}
-	
-.slider {
-  width: 100%;
-  overflow: hidden;
-}
-
-.slider img {
-  width: 100%;
-  display: none;
-}
-
-.slider img:first-child {
-  display: block;
-}
